@@ -12,8 +12,8 @@
 | 구분 | 링크 |
 | :--- | :--- |
 | 🎥 **시연 영상** | [YouTube 시연 영상 보기](https://youtu.be/n50RGLA9aQw?si=l-CSEeN4wGHg4iD5) |
-| 📄 **최종 결과보고서** | [결과보고서 PDF](./docs/Pomantle_결과보고서.pdf) |
-| 🖼️ **전시회 포스터** | [포스터 PDF](./docs/Pomantle_포스터.pdf) |
+| 📄 **최종 결과보고서** | [결과보고서 PDF](./Pomantle_결과보고서.pdf) |
+| 🖼️ **전시회 포스터** | [포스터 PDF](./Pomantle_포스터.pdf) |
 
 <br>
 
