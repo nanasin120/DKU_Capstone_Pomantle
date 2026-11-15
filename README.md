@@ -11,7 +11,7 @@
 
 | 구분 | 링크 |
 | :--- | :--- |
-| 🎥 **시연 영상** | [YouTube 시연 영상 보기](유튜브_URL_입력) |
+| 🎥 **시연 영상** | [YouTube 시연 영상 보기](https://youtu.be/n50RGLA9aQw?si=l-CSEeN4wGHg4iD5) |
 | 📄 **최종 결과보고서** | [결과보고서 PDF](./docs/Pomantle_결과보고서.pdf) |
 | 🖼️ **전시회 포스터** | [포스터 PDF](./docs/Pomantle_포스터.pdf) |
 
@@ -19,9 +19,9 @@
 
 ## 📱 주요 화면 (Screenshots)
 
-| 1. 메인 & 튜토리얼 | 2. 실시간 포즈 인식 & 촬영 | 3. 유사도 판정 결과 | 4. 오늘의 기록 (Top 5) |
+| 1. 메인 | 2. 실시간 포즈 인식 & 촬영 | 3. 유사도 판정 결과 | 4. 오늘의 기록 (Top 5) |
 | :---: | :---: | :---: | :---: |
-| <img src="./docs/images/main.png" width="200"/> | <img src="./docs/images/game.png" width="200"/> | <img src="./docs/images/result.png" width="200"/> | <img src="./docs/images/record.png" width="200"/> |
+| <img width="1280" height="684" alt="스크린샷 2026-11-11 214039" src="https://github.com/user-attachments/assets/63d0f988-e933-40ae-a0e3-ab3da6b065d4" /> | <img width="1280" height="684" alt="스크린샷 2026-11-11 214937" src="https://github.com/user-attachments/assets/537c04c3-d402-4451-a6c1-ba6243360842" /> | <img width="1280" height="684" alt="스크린샷 2026-11-11 215139" src="https://github.com/user-attachments/assets/99ad057d-d5fc-476c-86bb-252c1594e0ce" /> | <img width="1280" height="684" alt="스크린샷 2026-11-11 214823" src="https://github.com/user-attachments/assets/780f109e-2e0b-4642-a168-88dd8d321287" /> |
 | 튜토리얼 및 게임 시작 | MediaPipe 관절 추출 및 오버레이 | 부위별 유사도 분석 팝업 | LocalStorage 기반 Top 5 조회 |
 
 <br>
