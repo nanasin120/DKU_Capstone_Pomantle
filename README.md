@@ -53,9 +53,9 @@
 
 | 구분 | 사용 기술 |
 | :--- | :--- |
-| **Frontend (User / Admin)** | React, TypeScript, CSS3 |
+| **Frontend (User / Admin)** | React, TypeScript |
 | **AI / Vision** | Google MediaPipe Holistic |
-| **Backend** | Python, Flask, SQLAlchemy |
+| **Backend** | Python, Flask |
 | **Database** | PostgreSQL |
 
 <br>
